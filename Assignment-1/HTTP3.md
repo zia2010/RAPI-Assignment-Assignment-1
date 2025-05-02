@@ -38,7 +38,9 @@ You can test HTTP/3 requests using `curl` compiled with HTTP/3 support.
 ```bash
 curl --http3 https://cloudflare.com
 
-### ✅ Option 2: Node.js Code to Run curl (HTTP/3 via QUIC)
+```
+
+#### ✅ Option 2: Node.js Code to Run curl (HTTP/3 via QUIC)
 
 ```bash
 const { exec } = require('child_process');
@@ -50,3 +52,5 @@ exec('curl --http3 https://cloudflare.com', (error, stdout, stderr) => {
   }
   console.log(stdout);
 });
+
+```
