@@ -6,10 +6,10 @@ This document provides a detailed overview of the evolution of the HTTP protocol
 
 ### Here are the links to the different HTTP versions:
 
-* [HTTP 0.9](HTTP0.9.md)
-* [HTTP 1.0](HTTP1.md)
-* [HTTP 2](HTTP2.md)
-* [HTTP 3](HTTP3.md)
+* [HTTP 0.9](Assignment-1/HTTP0.9.md)
+* [HTTP 1.0](Assignment-1/HTTP1.md)
+* [HTTP 2](Assignment-1/HTTP2.md)
+* [HTTP 3](Assignment-1/HTTP3.md)
 
 ----
 
